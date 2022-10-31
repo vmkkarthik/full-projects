@@ -1,0 +1,28 @@
+body {
+    margin: 150px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.img{
+    width: 150px;
+    
+}
+.card{
+    padding: 20;
+    display: flex;
+    width: 400px;
+   margin: 0 auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    background: black;
+    color: bisque;
+    border: 6px solid red;
+    
+
+
+}
+.itlacis{
+
+    justify-content: space-around;
+    text-align: center;
+    
+}
